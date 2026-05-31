@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+Gimport { useEffect, useState } from 'react';
 import { Sprout, Leaf, Truck, Shield, TrendingUp, Users, ChevronRight } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
@@ -72,16 +72,6 @@ export default function WelcomePage() {
             transition={{ duration: 0.8 }}
             className="mb-8"
           >
-            <div className="flex items-center justify-center mb-4">
-              <div className="relative">
-                <div className="w-24 h-24 bg-gradient-to-br from-emerald-400 to-teal-500 rounded-3xl rotate-12 transform flex items-center justify-center shadow-2xl">
-                  <Leaf className="w-12 h-12 text-white -rotate-12" />
-                </div>
-                <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-yellow-400 rounded-full flex items-center justify-center">
-                  <Sprout className="w-4 h-4 text-emerald-900" />
-                </div>
-              </div>
-            </div>
             <h1 className="text-6xl sm:text-7xl font-bold text-white mb-3 tracking-tight">
               Gro<span className="text-emerald-400">vix</span>
             </h1>

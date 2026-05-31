@@ -1,5 +1,5 @@
 /*
-  # FertiBloomix - Initial Database Schema
+  # Grovix - Initial Database Schema
 
   1. Purpose
     Complete database schema for a farmer marketplace and assistance platform.

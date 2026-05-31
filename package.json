@@ -1,0 +1,10 @@
+{
+  "name": "grovix-root",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix project start",
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "lint": "npm --prefix project run lint"
+  }
+}
