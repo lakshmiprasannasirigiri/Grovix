@@ -1,4 +1,4 @@
-Gimport { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Sprout, Leaf, Truck, Shield, TrendingUp, Users, ChevronRight } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
