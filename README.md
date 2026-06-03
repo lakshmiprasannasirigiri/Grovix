@@ -18,16 +18,11 @@ To build a digital agriculture ecosystem that helps farmers make data-driven dec
 🛠️ Technologies Used
 
 React.js
-
 Tailwind CSS
-
 Framer Motion
-
 Node.js
-
 Express.js
-
 MongoDB
-👨‍💻 Developer
 
+👨‍💻 Developer
 Lakshmiprasanna Sirigiri
